@@ -1,0 +1,9 @@
+Django==3.0.7
+django-allauth==0.42.0
+django-rest-auth==0.9.5
+djangorestframework==3.12.1
+djangorestframework-simplejwt==4.4.0
+drf-jwt==1.17.2
+drf-pyotp==0.5.6
+drf-writable-nested==0.5.4
+requests==2.24.0
